@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is thought as an interface for people that is visually impaired to use some of the features of ChatGPT. The interface is made so the person can use it as an assistant to ask questions and interact completely to ChatGPT. 
+This project is thought as an interface for people that is not able to use some of the features of ChatGPT due to an impaired condition, but only through voice. The interface is made so the person can use it as an assistant to ask questions and interact completely to ChatGPT. 
 Thinking about providing other ways to help it interacts with dalee to generate images, more thinking about a place where they can make things happen for the people that work in marketing and idea development to translate ideas into pictures and present them. 
 Translate from spanish to english anything that they have, could be from themselves, or any video they have from Spanish to English.
 
