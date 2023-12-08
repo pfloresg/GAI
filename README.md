@@ -20,7 +20,7 @@ The user will say "Imagen". This feature will ask them what they want to draw an
 
 ### Traductor
 
-The user will say "Traductor". This feature will ask from a list of languages which one they want to translate from to english, current only supported language of ChatGPT. This is also thought to receive the input from the mic, so they can put any video, ad, movie they hear to know what is it saying. This will run only once and going back to the main interface.
+The user will say "Traductor". This feature will ask to say or reproduce the audio they want to translate from spanish to english, current only supported language of ChatGPT. This is also thought to receive the input from the mic, so they can put any video, ad, movie they hear to know what is it saying. This will run only once and going back to the main interface. Due to time was not able to add the selection of different languages to translate from.
 
 
 
@@ -28,4 +28,4 @@ The user will say "Traductor". This feature will ask from a list of languages wh
 
 Make an smooth flow between the modes so they can be even transparent for the user to have a better Natural interaction. Exploit the usage of models and training of them so it could be more useful and accurate for the needs of the user. 
 
-Add functionalities describe on some of the modules that are not being solved due to time and also knowledge limitations of the developer
+Add functionalities describe on some of the modules that are not being solved due to time and also knowledge limitations of the developer. 
